@@ -1,6 +1,6 @@
 ### Olá, me chamo Bruno sou estudante de programação .
 🔭 Trabalho atualmente com criação de Web sites para pequenas empresas
-🌱Estou em busca de aprimorar meus conhecimentos em Javascript, aprendendo bibliotecas como React e com bibliotecas de aprendizagem de estudar Node
+🌱Estou em busca de aprimorar meus conhecimentos em Javascript, aprendendo bibliotecas como React e com pretensão de estudar Node.
 
 <div align="center">
   <a href="https://github.com/BrunoAmathias">
